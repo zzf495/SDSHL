@@ -22,12 +22,12 @@ Text:
 
 Bibtex: 
 
-> @article{SDSHL,
-> title = {Joint Specifics and Dual-Semantic Hashing Learning for Cross-Modal Retrieval},
-> author = {Teng, Shaohua and Lin, Shengjie and Teng, Luyao and Wu, Naiqi and Zheng, Zefeng and Fei, Lunke and Zhang, Wei}
-> journal = {Neurocomputing},
-> volume = {565},
-> year = {2024},
-> note = {doi: 10.1016/j.neucom.2023.126993},
+> @article{SDSHL,  
+> title = {Joint Specifics and Dual-Semantic Hashing Learning for Cross-Modal Retrieval},  
+> author = {Teng, Shaohua and Lin, Shengjie and Teng, Luyao and Wu, Naiqi and Zheng, Zefeng and Fei, Lunke and Zhang, Wei}  
+> journal = {Neurocomputing},   
+> volume = {565},  
+> year = {2024},  
+> note = {doi: 10.1016/j.neucom.2023.126993},  
 > }
 
